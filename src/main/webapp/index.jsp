@@ -1,12 +1,14 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html lang="es">
+    <!DOCTYPE html>
+    <html lang="es">
+
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Cálculo de Cuadrados</title>
     </head>
-    <body>
+
+    <body style="background-color: rgb(109, 144, 196);">
         <div>
             <h1>Cálculo de Cuadrados</h1>
             <form action="resultado.jsp">
@@ -18,4 +20,5 @@
             </form>
         </div>
     </body>
-</html>
+
+    </html>
